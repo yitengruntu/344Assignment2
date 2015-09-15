@@ -1,0 +1,82 @@
+#container
+{
+	width:900px;
+	margin:0 auto;
+	overflow:auto;
+}
+
+#header
+{
+	text-align:center;
+	height:220px;
+}
+
+#header-text
+{
+	float:left;
+}
+
+#header-logo
+{
+	float:right;
+	margin:5px;
+}
+
+#nav
+{
+	overflow:auto;
+}
+
+#nav ul
+{
+	list-style:none;
+	height:30px;
+	padding:0px;
+	margin:0px;
+}
+
+#nav ul li
+{
+	float:left;
+	margin:10px
+}
+
+#main
+{
+	overflow:auto;
+	margin-top:3px;
+}
+
+#main_left
+{
+	float:left;
+	width: 154px;
+	margin: 20px;
+	border: 5px;
+	min-height:200px;
+}
+
+#main_center
+{
+	float:left;
+	width: 500px;
+	margin: 20px;
+	border: 5px;
+	min-height:200px;
+}
+
+#main_right
+{
+	padding-top: 20px;
+	float:right;
+	width:180px;
+	margin: 20px;
+	border: 5px;
+	min-height:200px;
+}
+
+#footer
+{
+	height:40px;
+}
+
